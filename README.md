@@ -115,4 +115,3 @@ Evaluated using:
 
 * Model can help predict which students are likely to participate based on study habits and performance metrics.
 
-* Fully ready for GitHub portfolio with clean code and visualizations.
